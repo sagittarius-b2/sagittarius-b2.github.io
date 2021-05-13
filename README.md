@@ -6,4 +6,4 @@ Ideja Sagitariusa je da učinimo računare i programiranje dostupnijim i pomogne
 
 Počećemo sa projektima za [Raspberry Pi](https://www.raspberrypi.org/) platformu, koje možete naći na [https://github.com/sagittarius-b2/raspberry-pi-projects](https://github.com/sagittarius-b2/raspberry-pi-projects).
 
-Blog post kojim je sve počelo: [Raspberry Pi kao prvi računar?](http://bug.rs/2019/01/raspberry-pi-kao-prvi-racunar/)
+Blog post kojim je sve počelo: [Raspberry Pi kao prvi računar?](https://bug.rs/2019/01/raspberry-pi-kao-prvi-racunar/)
